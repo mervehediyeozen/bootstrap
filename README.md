@@ -1,3 +1,3 @@
 # bootstrap
 
-(file:///C:/Users/MS%C4%B0/Desktop/YAZILIM/bootsrap.png)
+[view](file:///C:/Users/MS%C4%B0/Desktop/YAZILIM/bootsrap.png)
